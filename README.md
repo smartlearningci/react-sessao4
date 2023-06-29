@@ -7,6 +7,8 @@ Realizar o Download do repositório
 Para executar:
 
 >> cd app1
->> npm start
 >>
->> Aceder  http://localhost:3000
+>> 
+>> npm start
+
+Aceder  http://localhost:3000
